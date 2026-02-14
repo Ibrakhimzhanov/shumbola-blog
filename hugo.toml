@@ -1,0 +1,57 @@
+baseURL = "https://blog.shumbola.uz"
+languageCode = "uz"
+title = "Shum Bola AI"
+theme = "PaperMod"
+defaultContentLanguage = "uz"
+
+[params]
+  author = "Shum Bola"
+  description = "Vibe coding, AI va texnologiyalar haqida blog"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  defaultTheme = "auto"
+
+  [params.homeInfoParams]
+    Title = "Salom! Men Shum Bola 👋"
+    Content = "Full-Stack Developer, AI Evangelist va vibe coder. Bu blogda men o'z tajribamni baham ko'raman — AI bilan qanday kod yozish, bot yaratish va biznesni avtomatlashtirish haqida."
+
+  [[params.socialIcons]]
+    name = "telegram"
+    url = "https://t.me/shumbola_jamoa"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/shumbola"
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Teglar"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "Men haqimda"
+    url = "/about/"
+    weight = 3
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    lineNos = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
