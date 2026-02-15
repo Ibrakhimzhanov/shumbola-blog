@@ -25,9 +25,6 @@ defaultContentLanguage = "uz"
     name = "telegram"
     url = "https://t.me/shumbola_jamoa"
 
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/shumbola"
 
 [menu]
   [[menu.main]]

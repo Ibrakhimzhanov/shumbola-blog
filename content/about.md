@@ -47,4 +47,3 @@ Men AI ni faqat pul topish vositasi deb ko'rmayman. Bu kelajakning dvigatelidir.
 
 - Telegram: [@ibrakhimzhanovit](https://t.me/ibrakhimzhanovit)
 - Jamoa: [@shumbola_jamoa](https://t.me/shumbola_jamoa)
-- GitHub: [Ibrakhimzhanov](https://github.com/Ibrakhimzhanov)
