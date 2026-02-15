@@ -40,7 +40,7 @@ Men professional dasturchi emasman. Lekin 2025 yil avgustdan beri men o'nta loyi
 - **SpeakQuest**, ingliz tili o'rganish ilovasi. Buni 5 kunda tugatdim. Bitta bug 4 soat vaqtimni oldi. AI noto'g'ri state management qilgan edi. O'zim kod o'qib tushunmadim, lekin muammoni tavsiflashni o'rgandim.
 - **SoliqBot**, QQS hisoblash boti Telegramda. Eng tez loyiham, 1 kun. Telegram Bot API oddiy ekan, AI deyarli xatosiz yozdi.
 - **3D AXHOR**, restoran uchun AR menyu. Mehmon telefon kamerasini menyuga qaratadi, taom 3D da ko'rinadi. WebAR, Three.js ishlatdim. Modellarni iPhone 16 Pro da skanerdan o'tkazdim, qolganini AI yozdi.
-- **Madina Bot**, EMAX-B logistika kompaniyasi uchun AI yordamchi. Gemini AI, ovoz va foto tanish, amoCRM integratsiya. Birinchi pulli loyiham. Real biznes uchun.
+- **Madina Bot**, EMAX-B logistika kompaniyasi uchun AI yordamchi. Gemini AI, ovoz va foto tanish, amoCRM integratsiya. Real biznes uchun qildim.
 - **AIScraper**, Uzum, Wildberries, Ozon dan tovar qidiradigan Telegram bot. Narxlarni solishtiradi, Mistral AI natijalarni tahlil qiladi.
 - **ShumTube Generator**, desktop dastur, Tauri (Rust) da yozilgan. Rasm generatsiya qiladi. Avval C# da edi, 250MB. AI ga Rust ga o'tkazishni aytdim, 30MB ga tushdi.
 - **Taallam**, ta'lim konsalting agentligi uchun AI bot. Telegram va Instagram (ManyChat) da ishlaydi. Ikkinchi pulli loyiham.
