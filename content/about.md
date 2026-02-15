@@ -9,7 +9,7 @@ Full-Stack Developer, AI Evangelist, uch o'g'il otasi.
 
 ## Bosib o'tilgan yo'l
 
-2012-2016 yillarda Ukrainada, Sumiy shahrida o'qidim. Mutaxassislik: sun'iy intellekt ishlab chiqish va xavfsizlik.
+2012-2016 yillarda Ukrainada, Sumi shahrida o'qidim. Mutaxassislik: sun'iy intellekt ishlab chiqish va xavfsizlik.
 
 O'qishdan keyin **NetCore** da stajirovka o'tdim. Keyin **Academydev** da ishladim. Bir muddat frilans qildim, dizayner va analitik bo'lib ishladim.
 
