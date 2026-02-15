@@ -91,6 +91,4 @@ Men 6 oy davomida 10 ta loyiha qilib o'rgangan narsalarim:
 2. **Natijani tezda baholash.** SpeakQuest da AI yozgan kodni o'qib tushunmasdim. Lekin ilovani ishga tushirib, 30 soniyada "ishlayapti" yoki "ishlamayapti" ni bilardim.
 3. **Qismlarni birlashtirish.** CallMind da ovoz tanish, AI javob, va audio output. Uchta alohida qism. Har birini AI yozdi, lekin ularni qanday ulashni men o'ylab topdim.
 
-Dasturlash tilini o'rganma. Muammoni tushunishni o'rgan. Qolganini AI qiladi.
-
-Keyingi postda bitta loyihani boshidan oxirigacha ko'rsataman. Telegramda yozaman qachon tayyor bo'lsa.
+Hozir 11-chi loyihani boshladim.
