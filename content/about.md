@@ -11,7 +11,7 @@ Full-Stack Developer, AI Evangelist, uch o'g'il otasi.
 
 2012-2016 yillarda Ukrainada, Sumiy shahrida o'qidim. Mutaxassislik: sun'iy intellekt ishlab chiqish va xavfsizlik.
 
-O'qishdan keyin **NetCore** da stajировka o'tadim. Keyin **Academydev** da ishladim. Bir muddat frilans qildim, dizayner va analitik bo'lib ishladim.
+O'qishdan keyin **NetCore** da stajirovka o'tdim. Keyin **Academydev** da ishladim. Bir muddat frilans qildim, dizayner va analitik bo'lib ishladim.
 
 2021 yildan 2025 yil iyungacha **Hamkorbank** da Full-Stack dasturchi bo'lib ishladim. CRM tizimi Creatio (C#, JavaScript, BPMN) ni ishlab chiqdim.
 
