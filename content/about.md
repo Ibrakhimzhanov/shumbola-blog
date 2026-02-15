@@ -36,7 +36,7 @@ Shum Bola AI brendini asos soldim. Hozir bir nechta yo'nalishda ishlayman:
 
 **Kontentmaker:**
 - YouTube video yaratish uchun to'liq avtomatizatsiya ilovasi yaratdim
-- Instagramda yuritaman (boshlayman deb yuraman)
+- Instagramda yuritaman (boshlayman deb yuraman) 😄
 - Telegramda **JAMOA** tashkil qildim. AI ga qiziqadigan odamlar birlashgan.
 
 ## Nimaga AI
