@@ -1,7 +1,7 @@
 ---
 title: "6 oyda 10 loyiha yaratdim. Bitta qator kod yozmadim."
 date: 2026-02-15
-tags: ["vibe-coding", "AI", "kelajak", "dasturlash"]
+tags: ["vibe-coding", "AI", "kelajak", "dasturlash", "shumbola_ai"]
 description: "Botlar, AI ilovalar, AR menyu, desktop dastur. Hammasini Claude Code yozdi. Men faqat muammoni tushuntirdim."
 draft: false
 ---
@@ -93,4 +93,4 @@ Men 6 oy davomida 10 ta loyiha qilib o'rgangan narsalarim:
 
 Dasturlash tilini o'rganma. Muammoni tushunishni o'rgan. Qolganini AI qiladi.
 
-Og'alar, nima deb o'ylaysizlar? Shum Bola aytyapti: sinab ko'ringlar. Bitta loyiha boshlanglar. Natijasi hayron qoldirarli bo'ladi.
+Keyingi postda bitta loyihani boshidan oxirigacha ko'rsataman. Telegramda yozaman qachon tayyor bo'lsa.
