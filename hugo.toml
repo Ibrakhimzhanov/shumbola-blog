@@ -14,6 +14,7 @@ defaultContentLanguage = "uz"
   ShowCodeCopyButtons = true
   ShowToc = true
   TocOpen = false
+  comments = true
   defaultTheme = "auto"
 
   [params.homeInfoParams]

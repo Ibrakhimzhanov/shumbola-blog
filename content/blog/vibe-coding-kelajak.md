@@ -93,4 +93,4 @@ Men 6 oy davomida 10 ta loyiha qilib o'rgangan narsalarim:
 
 Dasturlash tilini o'rganma. Muammoni tushunishni o'rgan. Qolganini AI qiladi.
 
-Sinab ko'r.
+Og'alar, nima deb o'ylaysizlar? Shum Bola aytyapti: sinab ko'ringlar. Bitta loyiha boshlanglar. Natijasi hayron qoldirarli bo'ladi.
