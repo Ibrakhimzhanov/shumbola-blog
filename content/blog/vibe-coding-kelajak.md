@@ -42,7 +42,7 @@ Sababi oddiy. AI sintaksisni yaxshi biladi, universitetda o'rgatadigan narsani. 
 - **Madina Bot**, EMAX-B logistika kompaniyasi uchun AI yordamchi. Gemini AI, ovoz va foto tanish, amoCRM integratsiya. Real biznes uchun qildim.
 - **AIScraper**, Uzum, Wildberries, Ozon dan tovar qidiradigan Telegram bot. Narxlarni solishtiradi, Mistral AI natijalarni tahlil qiladi.
 - **ShumTube Generator**, desktop dastur, Tauri (Rust) da yozilgan. Rasm generatsiya qiladi. Avval C# da edi, 250MB. AI ga Rust ga o'tkazishni aytdim, 30MB ga tushdi.
-- **Taallam**, ta'lim konsalting agentligi uchun AI bot. Telegram va Instagram (ManyChat) da ishlaydi. Ikkinchi pulli loyiham.
+- **Taallam**, ta'lim konsalting agentligi uchun AI bot. Telegram va Instagram (ManyChat) da ishlaydi.
 - **AnonimusValentinBot**, anonim valentinka yuborish boti. Referal tizim, VIP obuna, antispam. 2 kunda tayyor bo'ldi.
 - Bu blog, Hugo + PaperMod + Netlify. Deploy qilish 2 soat oldi.
 
