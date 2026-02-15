@@ -13,7 +13,7 @@ Full-Stack Developer, AI Evangelist, uch o'g'il otasi.
 
 O'qishdan keyin **NetCore** da stajirovka o'tdim. Keyin **Academydev** da ishladim. Bir muddat frilans qildim, dizayner va analitik bo'lib ishladim.
 
-2021 yildan 2025 yil iyungacha **Hamkorbank** da Full-Stack dasturchi bo'lib ishladim. CRM tizimi Creatio (C#, JavaScript, BPMN) ni ishlab chiqdim.
+2020 yilda **Hamkorbank** ga kirdim, call-center operatori bo'lib boshladim. 2021 yildan Full-Stack dasturchi bo'lib o'tdim. 2025 yil iyungacha CRM tizimi Creatio (C#, JavaScript, BPMN) ni ishlab chiqdim.
 
 ## Hozir nima qilayapman
 
