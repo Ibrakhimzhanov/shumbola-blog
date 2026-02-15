@@ -26,7 +26,7 @@ Tweetni 4.5 million kishi ko'rdi. Men buni o'qiganimda tushundim: men allaqachon
 | AI tool ishlatadigan dasturchilar | 65% haftalik | [Stack Overflow 2025](https://survey.stackoverflow.co/2025/ai) |
 | Yosh dasturchilar (22-25) ish kamaymasi | -20% | [Stanford/TIME](https://time.com/7312205/ai-jobs-stanford/) |
 
-Oxirgi qatorga e'tibor ber. Stanford tadqiqotchilari ADP payroll ma'lumotlarini tahlil qilishdi. Millionlab ishchilar, minglab kompaniyalar. 22-25 yoshdagi dasturchilar orasida bandlik 2022 cho'qqisiga nisbatan [20% ga tushgan](https://www.finalroundai.com/blog/stanford-study-shows-young-software-developers-losing-jobs-to-ai).
+Oxirgi qatorga e'tibor beramiz og'alar. Stanford tadqiqotchilari ADP payroll ma'lumotlarini tahlil qilishdi. Millionlab ishchilar, minglab kompaniyalar. 22-25 yoshdagi dasturchilar orasida bandlik 2022 cho'qqisiga nisbatan [20% ga tushgan](https://www.finalroundai.com/blog/stanford-study-shows-young-software-developers-losing-jobs-to-ai).
 
 30 yoshdan kattalar? Ularning bandligi 6-12% ga **o'sgan**.
 
