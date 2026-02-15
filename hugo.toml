@@ -48,6 +48,9 @@ defaultContentLanguage = "uz"
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[minify]
+  disableJSON = true
+
 [markup]
   [markup.highlight]
     style = "monokai"
