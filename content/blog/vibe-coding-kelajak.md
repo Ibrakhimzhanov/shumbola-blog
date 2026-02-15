@@ -34,7 +34,7 @@ Sababi oddiy. AI sintaksisni yaxshi biladi, universitetda o'rgatadigan narsani. 
 
 ## Men nima qildim
 
-Men professional dasturchi emasman. Lekin 2025 yil avgustdan beri men o'nta loyiha yaratdim:
+2025 yil avgustdan beri men o'nta loyiha yaratdim:
 
 - **CallMind**, ovozli AI yordamchi. 3 kun davomida Claude Code bilan yozdim. Eng qiyin joyi ovoz tanish API ni to'g'ri ulash edi. 2 soat davomida AI ga turli yo'llarni sinab ko'rishni aytdim, oxiri Whisper API bilan ishladi.
 - **SpeakQuest**, ingliz tili o'rganish ilovasi. Buni 5 kunda tugatdim. Bitta bug 4 soat vaqtimni oldi. AI noto'g'ri state management qilgan edi. O'zim kod o'qib tushunmadim, lekin muammoni tavsiflashni o'rgandim.
