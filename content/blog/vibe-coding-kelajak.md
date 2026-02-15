@@ -1,8 +1,8 @@
 ---
-title: "Kod yozishni o'rganma — muammo yechishni o'rgan"
+title: "6 oyda 4 loyiha yaratdim. Bitta qator kod yozmadim."
 date: 2026-02-15
 tags: ["vibe-coding", "AI", "kelajak", "dasturlash"]
-description: "Vibe coding bilan 6 oyda 4 ta loyiha yaratdim. Endi dasturlash o'rganish emas — muammo yechish muhim."
+description: "CallMind, SpeakQuest, SoliqBot, blog. Hammasini Claude Code yozdi. Men faqat muammoni tushuntirdim."
 draft: false
 ---
 
