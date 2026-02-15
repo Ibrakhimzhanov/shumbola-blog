@@ -1,7 +1,7 @@
 ---
 title: "6 oyda 10 loyiha yaratdim. Bitta qator kod yozmadim."
 date: 2026-02-15
-tags: ["vibe-coding", "AI", "kelajak", "dasturlash", "shumbola_ai"]
+tags: ["vibe-coding", "AI", "kelajak", "dasturlash"]
 description: "Botlar, AI ilovalar, AR menyu, desktop dastur. Hammasini Claude Code yozdi. Men faqat muammoni tushuntirdim."
 draft: false
 ---
