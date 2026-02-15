@@ -25,7 +25,7 @@ Shum Bola AI brendini asos soldim. Hozir bir nechta yo'nalishda ishlayman:
 - **Family Dev**
 
 **Startaplar:**
-- **CallMind** va boshqa AI loyihalar ustida ishlayman
+- AI loyihalar ustida ishlayman
 
 **AI evangelist:**
 - 500 dan ortiq odamga AI o'rgatdim

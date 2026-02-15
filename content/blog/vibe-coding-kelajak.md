@@ -1,5 +1,5 @@
 ---
-title: "6 oyda 10 loyiha yaratdim. Bitta qator kod yozmadim."
+title: "6 oyda 9 loyiha yaratdim. Bitta qator kod yozmadim."
 date: 2026-02-15
 tags: ["vibe-coding", "AI", "kelajak", "dasturlash"]
 description: "Botlar, AI ilovalar, AR menyu, desktop dastur. Hammasini Claude Code yozdi. Men faqat muammoni tushuntirdim."
@@ -14,7 +14,7 @@ O'tgan yili men bitta loyihani 2 haftada tugatdim. Undan oldingi loyiham 3 oy ol
 
 > "Yangi turdagi dasturlash bor. Men uni vibe coding deb atayman. Siz LLM ga muammoni tushuntirasiz, u kod yozadi, siz natijani ko'rasiz. Kod borligini ham unutasiz."
 
-Tweetni 4.5 million kishi ko'rdi. Men buni o'qiganimda tushundim: men allaqachon shunday ishlayman. CallMind, SpeakQuest, bir nechta Telegram bot. Hammasi shu usulda yaratilgan. Men sintaksis yozmayman. Men muammoni tushuntiraman.
+Tweetni 4.5 million kishi ko'rdi. Men buni o'qiganimda tushundim: men allaqachon shunday ishlayman. SpeakQuest, SoliqBot, bir nechta Telegram bot. Hammasi shu usulda yaratilgan. Men sintaksis yozmayman. Men muammoni tushuntiraman.
 
 ## Raqamlar
 
@@ -34,9 +34,8 @@ Sababi oddiy. AI sintaksisni yaxshi biladi, universitetda o'rgatadigan narsani. 
 
 ## Men nima qildim
 
-2025 yil avgustdan beri men o'nta loyiha yaratdim:
+2025 yil avgustdan beri men to'qqizta loyiha yaratdim:
 
-- **CallMind**, ovozli AI yordamchi. 3 kun davomida Claude Code bilan yozdim. Eng qiyin joyi ovoz tanish API ni to'g'ri ulash edi. 2 soat davomida AI ga turli yo'llarni sinab ko'rishni aytdim, oxiri Whisper API bilan ishladi.
 - **SpeakQuest**, ingliz tili o'rganish ilovasi. Buni 5 kunda tugatdim. Bitta bug 4 soat vaqtimni oldi. AI noto'g'ri state management qilgan edi. O'zim kod o'qib tushunmadim, lekin muammoni tavsiflashni o'rgandim.
 - **SoliqBot**, QQS hisoblash boti Telegramda. Eng tez loyiham, 1 kun. Telegram Bot API oddiy ekan, AI deyarli xatosiz yozdi.
 - **3D AXHOR**, restoran uchun AR menyu. Mehmon telefon kamerasini menyuga qaratadi, taom 3D da ko'rinadi. WebAR, Three.js ishlatdim. Modellarni iPhone 16 Pro da skanerdan o'tkazdim, qolganini AI yozdi.
@@ -85,10 +84,10 @@ Oldin loyiha yaratish 6 oy va $50,000 talab qilar edi. Endi [1 hafta va $500 dan
 
 Stanford tadqiqoti aniq ko'rsatdi: faqat sintaksis bilish ish bermayapti.
 
-Men 6 oy davomida 10 ta loyiha qilib o'rgangan narsalarim:
+Men 6 oy davomida 9 ta loyiha qilib o'rgangan narsalarim:
 
 1. **Muammoni aniq ifoda qilish.** SoliqBot da men "QQS hisoblash boti yoz" deganimda AI nima qilishni bilmadi. "Foydalanuvchi summa kiritadi, bot 12% QQS qo'shib javob beradi" deganimda, 20 daqiqada tayyor bo'ldi.
 2. **Natijani tezda baholash.** SpeakQuest da AI yozgan kodni o'qib tushunmasdim. Lekin ilovani ishga tushirib, 30 soniyada "ishlayapti" yoki "ishlamayapti" ni bilardim.
-3. **Qismlarni birlashtirish.** CallMind da ovoz tanish, AI javob, va audio output. Uchta alohida qism. Har birini AI yozdi, lekin ularni qanday ulashni men o'ylab topdim.
+3. **Qismlarni birlashtirish.** Madina Bot da ovoz tanish, AI javob, va amoCRM integratsiya. Uchta alohida qism. Har birini AI yozdi, lekin ularni qanday ulashni men o'ylab topdim.
 
 Hozir 11-chi loyihani boshladim.
