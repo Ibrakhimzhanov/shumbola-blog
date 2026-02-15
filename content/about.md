@@ -7,7 +7,7 @@ layout: "single"
 
 Full-Stack Developer, AI Evangelist, uch o'g'il otasi.
 
-## Yo'l
+## Bosib o'tilgan yo'l
 
 2012-2016 yillarda Ukrainada, Sumiy shahrida o'qidim. Mutaxassislik: sun'iy intellekt ishlab chiqish va xavfsizlik.
 
